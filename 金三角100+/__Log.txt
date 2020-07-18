@@ -1,0 +1,155 @@
+
+存储位置:C:\Users\mac\Desktop\存档\金三角100+
+读取文件：C:\Users\mac\Desktop\存档\金三角100+\ArticalUrlFile.txt
+【读取到 106 个链接】
+【存储设置】
+url列表逆序：是
+同名文件自动重命名：是
+保存HTML文件：否
+过滤热度（100)以下的作品
+创建新文件夹: needCheckUrl
+请在存储完成后确认文件夹中含有url的文档
+创建新文件夹: needCheckImg
+请在存储完成后确认文件夹中含有图片的文档
+【开始存储文档】
+【联五】谁比谁更烧饼-伯霁 : 存储成功
+《原来重点班是这个样子啊》060--London Eye : 存储成功
+联五贴，都可以贴5-戏语平生 : 存储成功
+【联五】这个鸡Q污吃枣药丸-de&middot;还不清楚怎么回事&middot;最近先不发文 : 存储成功
+【APH】这位邻居请不要赖在我家不走（十一）-姓南名巷字酒深 : 存储成功
+【URL】【https://huasui85598.lofter.com/post/31c80e93_1c9989bf6 】【【国设】沉默森林32-华遂】
+【IMG】【https://huasui85598.lofter.com/post/31c80e93_1c9989bf6 】【【国设】沉默森林32-华遂】
+【国设】沉默森林32-华遂 : 存储成功
+【金三角】Summertrain-袖枝皖瑶 : 存储成功
+【RPG游戏向全员向】希望之馆-菊の逸  （魔仙小蓝地球分蓝） : 存储成功
+【URL】【https://huasui85598.lofter.com/post/31c80e93_1c989b91a 】【【国设】沉默森林27-华遂】
+【IMG】【https://huasui85598.lofter.com/post/31c80e93_1c989b91a 】【【国设】沉默森林27-华遂】
+【国设】沉默森林27-华遂 : 存储成功
+【SAMENAME】【https://jieyuwuqinghuawuyi.lofter.com/post/1f43e183_1c987a66d 】【【RPG游戏向全员向】希望之馆-菊の逸  （魔仙小蓝地球分蓝）】存在同名文件，已自动改名
+【RPG游戏向全员向】希望之馆-菊の逸  （魔仙小蓝地球分蓝） : 存储成功
+【URL】【https://huasui85598.lofter.com/post/31c80e93_1c9876ad6 】【【国设】沉默森林25-华遂】
+【IMG】【https://huasui85598.lofter.com/post/31c80e93_1c9876ad6 】【【国设】沉默森林25-华遂】
+【国设】沉默森林25-华遂 : 存储成功
+〖aph多cp〗后宫佳丽三千人-林陌 : 存储成功
+联合国这几天的气氛很-夜影寂魂 : 存储成功
+【APH】这位邻居请不要赖在我家不走（九）-姓南名巷字酒深 : 存储成功
+金三角如何相互迫害-SchwarzenR&oacute;zsa : 存储成功
+如果联五看到别人被抢劫-衔书取竹 : 存储成功
+黑三同住vs金三合租-小熊猫奶糖♤ : 存储成功
+《原来重点班是这个样子啊》038--London Eye : 存储成功
+若黑塔出七的剧情是怎样的（一）-千就不千那千杯 : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_1c8a7ffa8 】【【金三角】胜利之吻（6）-以 沫】
+【金三角】胜利之吻（6）-以 沫 : 存储成功
+一个地球仪引发的惨案-卿初 : 存储成功
+【URL】【https://wantad.lofter.com/post/1f766afd_1c89f7657 】【[授权搬运]APH-[十日谈]Ⅰ By：十三号植株-想食AD钙奶】
+[授权搬运]APH-[十日谈]Ⅰ By：十三号植株-想食AD钙奶 : 存储成功
+假如国家们也要考试-🎠HOSHIMIYA🎠 : 存储成功
+小小姐(性转dover，性转避雷)-卿初 : 存储成功
+英国拥有读心术（？）的一天【中】-Deutsche Ares : 存储成功
+王濠镜好难-沅止 : 存储成功
+《原来重点班是这个样子啊》035--London Eye : 存储成功
+理想型这东西总说变就变就像龙卷风-紅桃王后理論 : 存储成功
+英国拥有读心术（？）的一天-Deutsche Ares : 存储成功
+《原来重点班是这个样子啊》031--London Eye : 存储成功
+涸辙之鲋【米英】-🎠HOSHIMIYA🎠 : 存储成功
+【仏英】千 杯 不 醉 柯 克 兰-沅止 : 存储成功
+假如你是黑塔利亚幼儿园老师-🎠HOSHIMIYA🎠 : 存储成功
+最喜欢联六的十个国家，现实调查结果-李 : 存储成功
+《原来重点班是这个样子啊》-London Eye : 存储成功
+#沙雕联五日常#-Ariana419 : 存储成功
+联耀《四流氓犯沙雕怎么破》（四）-千就不千那千杯 : 存储成功
+联耀《四流氓犯沙雕怎么破》（三）-千就不千那千杯 : 存储成功
+联耀《四流氓犯沙雕怎么破》（二）-千就不千那千杯 : 存储成功
+当联五终于住进了同一个宿舍&hellip;&hellip;（9）-梨久久今天又咕了吗 : 存储成功
+神奇动物那些事(上)-北极 : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_1c761bb25 】【【金三角】胜利之吻（5）-以 沫】
+【IMG】【https://sharmily.lofter.com/post/1d5d8538_1c761bb25 】【【金三角】胜利之吻（5）-以 沫】
+【金三角】胜利之吻（5）-以 沫 : 存储成功
+【沙雕向】你们这里有正常的国家吗？！②-小季小季一季一更 : 存储成功
+【耀all】你当我王耀是吃素的？（上）-Ariana419 : 存储成功
+【SAMENAME】【https://jieyuwuqinghuawuyi.lofter.com/post/1f43e183_1c7518e6f 】【【RPG游戏向全员向】希望之馆-菊の逸  （魔仙小蓝地球分蓝）】存在同名文件，已自动改名
+【RPG游戏向全员向】希望之馆-菊の逸  （魔仙小蓝地球分蓝） : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_1c74f71ae 】【【金三角】胜利之吻（4）-以 沫】
+【金三角】胜利之吻（4）-以 沫 : 存储成功
+异色金三角的合租十五题!-🇷🇺嬴嬴嬴嬴嬴千秋🇨🇳 : 存储成功
+【SAMENAME】【https://jieyuwuqinghuawuyi.lofter.com/post/1f43e183_1c7410d98 】【【RPG游戏向全员向】希望之馆-菊の逸  （魔仙小蓝地球分蓝）】存在同名文件，已自动改名
+【RPG游戏向全员向】希望之馆-菊の逸  （魔仙小蓝地球分蓝） : 存储成功
+【黑塔利亚众三角】（严肃科普向-尼勒岛 : 存储成功
+【RPG游戏向全员向】希望之馆②０-菊の逸  （魔仙小蓝地球分蓝） : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_1c7258388 】【【金三角】胜利之吻（3）-以 沫】
+【金三角】胜利之吻（3）-以 沫 : 存储成功
+【RPG游戏向全员向】希望之馆①⑨-菊の逸  （魔仙小蓝地球分蓝） : 存储成功
+【RPG游戏向全员向】希望之馆①⑦-菊の逸  （魔仙小蓝地球分蓝） : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_1c701db35 】【【金三角】胜利之吻（2）-以 沫】
+【金三角】胜利之吻（2）-以 沫 : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_1c6fe4060 】【【金三角】胜利之吻（1）-以 沫】
+【金三角】胜利之吻（1）-以 沫 : 存储成功
+【URL】【https://watt9an.lofter.com/post/1d2dad7d_1c65f44c8 】【【APH金三角】夜宵-古里沫宝】
+【APH金三角】夜宵-古里沫宝 : 存储成功
+【APH联轴】请问您的披萨上要放菠萝吗？-子安 : 存储成功
+【仏诞企划800】英国人，美国人，法国保姆-Nikkimars🧸🐥 : 存储成功
+国家的世界（2）-药罐当归【大考进行时 : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_1c5f271be 】【【金三角】黄金轮盘（下）-以 沫】
+【金三角】黄金轮盘（下）-以 沫 : 存储成功
+【知乎体】后宫起火是一种什么体验-璇 : 存储成功
+[Double金三角]独舞-一川 : 存储成功
+【URL】【https://jejucat.lofter.com/post/3d5cac_12e8d2352 】【[归档]收纳箱-一川】
+[归档]收纳箱-一川 : 存储成功
+[彬振bo焕]心生&middot;Still You-一川 : 存储成功
+[彬振bo焕]心生&middot;After You-一川 : 存储成功
+当联五终于住进了同一个宿舍&hellip;&hellip;（6）-梨久久今天又咕了吗 : 存储成功
+当联五终于住进了同一个宿舍&hellip;&hellip;（5）-梨久久今天又咕了吗 : 存储成功
+一起来玩恐怖游戏吧！-小熊猫奶糖♤ : 存储成功
+【仏英】医务室闹剧-霂缡 : 存储成功
+【APH181225贺文】记一场意义非凡的翻车事件   上-禾火禾火能吃一斤 : 存储成功
+奥利弗的自述-想吃肉的冕冕 : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_12cdfd9cd 】【【金三角】黄金轮盘（上）-以 沫】
+【金三角】黄金轮盘（上）-以 沫 : 存储成功
+脑补了一下金三角的相处模式。 -松枝matsu : 存储成功
+OOC预警：一个骚过头的dover脑洞-Nikkimars🧸🐥 : 存储成功
+【历史】冷战前期美英法关系的变化-以 沫 : 存储成功
+【APHFateAU】这种圣杯战争放弃算了part1-鸣鴺于南狩 : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_12b19456 】【【金三角仏英】我无怨无悔-以 沫】
+【金三角仏英】我无怨无悔-以 沫 : 存储成功
+【URL】【https://sharmily.lofter.com/post/1d5d8538_12459174 】【【金三角】云雀-以 沫】
+【金三角】云雀-以 沫 : 存储成功
+【APH联五】 盘点联五的那些经典影片-路德维希的白桦 : 存储成功
+亚瑟：我才不是想亲你呢，白痴。【米英花吐症】-木一_Wyn : 存储成功
+Superstar 超级巨星&lt;仏英&gt;-Monsoon : 存储成功
+一个莫名其妙的中二联五设定-夔周 : 存储成功
+【APH】黑塔GO论坛-天下之人皆穿我衣 : 存储成功
+【SAMENAME】【https://yibeitianxia.lofter.com/post/38a89e_ea6a2f2 】【【APH】黑塔GO论坛-天下之人皆穿我衣】存在同名文件，已自动改名
+【APH】黑塔GO论坛-天下之人皆穿我衣 : 存储成功
+【ERROR】https://baimoluan.lofter.com/post/1e0cc67d_ea1fdac : 网页内容不存在或读取错误
+【米英】论坛体：玩个游戏真是什么事都遇得到！（下）-文人不倦 : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_cff84ee 】【【APH】Lollipop  金三角-特寧紅】
+【APH】Lollipop  金三角-特寧紅 : 存储成功
+【URL】【https://pure93.lofter.com/post/1d569641_d2b55e6 】【须臾  金三-阿呆的透明泪】
+须臾  金三-阿呆的透明泪 : 存储成功
+【金三角】一个励志的故事（并不）-文人不倦 : 存储成功
+La La Land   英中心-安气 : 存储成功
+【URL】【https://sea-monsoon.lofter.com/post/305140_c39718e 】【Dwarives 侏儒们&lt;APH群像&gt;-Monsoon】
+Dwarives 侏儒们&lt;APH群像&gt;-Monsoon : 存储成功
+【APH】这才是黑塔鬼的正确打开方式-库洛姆 : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_b86aec1 】【【APH】Deal&#39;s a deal &ndash;&ndash; Betrayed  法米英-特寧紅】
+【APH】Deal&#39;s a deal &ndash;&ndash; Betrayed  法米英-特寧紅 : 存储成功
+【米英ABO】黑桃国纪 -4--久鸢_Kuon : 存储成功
+【千粉点文】History of Fantasia-Monsoon : 存储成功
+You were the shadow of my Light&lt;米英金三角&gt;-Monsoon : 存储成功
+【URL】【https://sea-monsoon.lofter.com/post/305140_a694178 】【客死他乡&lt;仏英米英&gt;-Monsoon】
+客死他乡&lt;仏英米英&gt;-Monsoon : 存储成功
+CHARM    米英 仏英 葡英-安气 : 存储成功
+【URL】【https://ratouinchaos.lofter.com/post/1d4add01_9e467cb 】【【APH】无法无天 01-特寧紅】
+【APH】无法无天 01-特寧紅 : 存储成功
+【URL】【https://sea-monsoon.lofter.com/post/305140_9b9723f 】【时尚流氓&lt;金三角&gt;-Monsoon】
+时尚流氓&lt;金三角&gt;-Monsoon : 存储成功
+俄狄浦斯情结&lt;米英金三角&gt;-Monsoon : 存储成功
+【APH金三角】画家-苝望 : 存储成功
+不良  仏英 米英-安气 : 存储成功
+【URL】【https://sea-monsoon.lofter.com/post/305140_8128ed8 】【混乱关系&lt;ALL英&middot;R18&gt;-Monsoon】
+混乱关系&lt;ALL英&middot;R18&gt;-Monsoon : 存储成功
+【URL】【https://sea-monsoon.lofter.com/post/305140_7db29b7 】【狂欢节&lt;金三角西英&gt;-Monsoon】
+狂欢节&lt;金三角西英&gt;-Monsoon : 存储成功
+【URL】【https://sea-monsoon.lofter.com/post/305140_7d9857d 】【狩猎之夜&lt;金三角西英&gt;-Monsoon】
+狩猎之夜&lt;金三角西英&gt;-Monsoon : 存储成功
+完成
